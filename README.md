@@ -1,3 +1,6 @@
+Результат 1 работы
+![Гифка с Gifius ru](https://user-images.githubusercontent.com/76240156/213861901-d2e98e52-dc66-4cab-9e59-dc1d4fa220fa.gif)
+
 Результат 3 работы
 ![Гифка с Gifius ru](https://user-images.githubusercontent.com/76240156/213861641-b213f4a2-7bdc-4439-a583-c6674beb7bd0.gif)
 
